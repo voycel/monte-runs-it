@@ -1,0 +1,4 @@
+variant,doors,monty_knows,seed,games,car_revealed,counted,stay_wins,switch_wins,switch_share,exact_switch,exact_decimal,z,gate,seconds
+classic,3,True,20261027,1000000,0,1000000,333038,666962,0.666962,2/3,0.666667,+0.63,PASS,0.7
+monty-forgets,3,False,20261028,1000000,333732,666268,332606,333662,0.500792,1/2,0.500000,+1.29,PASS,0.7
+100-doors,100,True,20261029,1000000,0,1000000,10083,989917,0.989917,99/100,0.990000,-0.83,PASS,10.7
