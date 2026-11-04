@@ -1,0 +1,30 @@
+measure,value
+rooms per run,1000000
+pairs share at 23,0.507116
+pairs exact at 23,0.507297
+pairs exact at 22,0.475695
+pairs people for 50%,23
+pairs people for 99%,57
+pairs people for 99.9%,70
+pairs most common first match person,19
+pairs rooms first matching at mode,32591
+pairs exact most common first match person,20
+pairs exact rooms per million at exact mode,32320
+pairs rooms first matching at exact mode,32231
+pairs largest room,100
+mine share at 23,0.060925
+mine share at 253,0.501099
+mine people for 50%,253
+mine largest room,5273
+triples share at 23,0.012632
+triples people for 50%,88
+real share at 23,0.507502
+real exact at 23,0.507929
+real people for 50%,23
+births counted,62187024
+most common date,12 Sep
+most common date births,191024
+rarest date without 29 Feb,25 Dec
+rarest date without 29 Feb births,96568
+29 Feb births,41869
+seed,20261104
