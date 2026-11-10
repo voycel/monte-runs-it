@@ -1,0 +1,79 @@
+measure,value
+even people,1000
+even people with no friends,0
+even friendships,5077
+even average friends per person,10.154
+even most friends,22
+even fewest friends,2
+even median friends,10
+even sim picker friends,10.151267
+even exact picker friends,10.154
+even sim picked friend friends,11.088981
+even exact picked friend friends,11.093109
+even sim friend has more,0.544717
+even exact friend has more,0.544594
+even sim friend has fewer,0.373269
+even exact friend has fewer,0.373064
+even sim tie,0.082014
+even people whose friends average more than them,624
+even friend list average,11.097105
+sociable people,1000
+sociable people with no friends,41
+sociable friendships,5058
+sociable average friends per person,10.116
+sociable most friends,131
+sociable fewest friends,0
+sociable median friends,6
+sociable sim picker friends,10.546772
+sociable exact picker friends,10.548488
+sociable sim picked friend friends,26.414621
+sociable exact picked friend friends,26.422828
+sociable sim friend has more,0.745041
+sociable exact friend has more,0.745004
+sociable sim friend has fewer,0.231228
+sociable exact friend has fewer,0.231025
+sociable sim tie,0.023731
+sociable people whose friends average more than them,869
+sociable friend list average,26.011862
+clockwork people,1000
+clockwork people with no friends,0
+clockwork friendships,5000
+clockwork average friends per person,10.0
+clockwork most friends,10
+clockwork fewest friends,10
+clockwork median friends,10
+clockwork sim picker friends,10.0
+clockwork exact picker friends,10.0
+clockwork sim picked friend friends,10.0
+clockwork exact picked friend friends,10.0
+clockwork sim friend has more,0.0
+clockwork exact friend has more,0.0
+clockwork sim friend has fewer,0.0
+clockwork exact friend has fewer,0.0
+clockwork sim tie,1.0
+clockwork people whose friends average more than them,0
+clockwork friend list average,10.0
+bus clockwork mean gap,10.0
+bus clockwork sim wait,4.998558
+bus clockwork exact wait,5.0
+bus clockwork sim gap landed in,10.0
+bus clockwork exact gap landed in,10.0
+bus bunched mean gap,10.0
+bus bunched sim wait,8.192359
+bus bunched exact wait,8.2
+bus bunched sim gap landed in,16.39408
+bus bunched exact gap landed in,16.4
+bus bunched sim share in 18-minute gap,0.89963
+bus random mean gap,10.000012
+bus random sim wait,10.005192
+bus random exact wait,10.001487
+bus random sim gap landed in,20.006065
+bus random exact gap landed in,20.002974
+elevators 1 sim first going down,0.889031
+elevators 1 exact first going down,0.888889
+elevators 3 sim first going down,0.734981
+elevators 3 exact first going down,0.735254
+elevators 10 sim first going down,0.540103
+elevators 10 exact first going down,0.540507
+runs per case,1000000
+seed,20261106
