@@ -1,0 +1,35 @@
+measure,value
+warm-up album size,10
+warm-up sim stickers,29.26839
+warm-up exact stickers,29.289683
+album stickers,980
+stickers per packet,7
+perfect-luck packets,140
+album sim mean packets,1042.712452
+album exact mean packets,1042.363769
+album exact mean stickers opened,7296.546385
+album exact mean duplicates,6316.546385
+album exact median packets,1013
+album exact 10% luckiest packets,846
+album exact 90% packets,1275
+album sim median packets,1013
+album sim fewest packets,595
+album sim most packets,2901
+album sim done by 1000,0.468407
+album exact done by 1000,0.468853
+album exact packets to 490,97.100535
+album exact packets to 882,321.162628
+album exact packets to 970,633.565199
+album sim packets to 490,97.100464
+album sim packets to 882,321.173964
+album sim packets to 970,633.616449
+album sim wait at 979,140.300599
+album exact wait at 979,140.0
+album sim share that sat at 979,0.996899
+album exact share that sat at 979,0.996935
+two friends sim packets together,1374.168265
+two friends exact packets together,1374.330665
+two friends exact packets each,687.165333
+two friends exact saving each,355.198437
+runs per case,1000000
+seed,20261117

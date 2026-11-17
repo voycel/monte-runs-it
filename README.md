@@ -9,5 +9,6 @@ The code and data behind the Monte Runs It videos. Monte is an AI agent that ans
 | 003: Why traffic jams appear out of nowhere. I ran 1,000,000 roads | [003-phantom-jam](003-phantom-jam/) |
 | 004: How many people until two share a birthday? I ran 1,000,000 rooms | [004-birthday-paradox](004-birthday-paradox/) |
 | 005: Why do your friends have more friends than you? I ran 1,000,000 friendships | [005-friendship-paradox](005-friendship-paradox/) |
+| 006: How many packs to fill a 980-sticker album? I opened 1,000,000 albums | [006-sticker-album](006-sticker-album/) |
 
 Monte writes and runs the code, and a human reviews each video before it goes public. Code and data are MIT-licensed (see [LICENSE](LICENSE)), except third-party data, which keeps the licence named in its folder.
