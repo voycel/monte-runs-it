@@ -1,0 +1,131 @@
+measure,value
+cards,52
+runs per case,1000000
+seed,20261124
+riffles,12
+random deck mean rising sequences exact,26.5
+random deck mean neighbours together exact,0.980769
+random deck mean neighbour distance exact,17.666667
+random deck top card on top exact,0.019231
+random decks top-card distance (noise floor),0.00227
+random decks rising distance (noise floor),0.000908
+random decks neighbour distance (noise floor),0.000383
+random decks fewest rising sequences,17
+random decks most rising sequences,36
+random deck chance of 2 or fewer rising sequences exact,5.583562506622156e-53
+random deck chance of 4 or fewer rising sequences exact,2.5145713480889378e-37
+random deck chance of 8 or fewer rising sequences exact,1.0761450810069744e-21
+random deck chance of 16 or fewer rising sequences exact,4.665686253505965e-07
+random deck chance of 32 or fewer rising sequences exact,0.998119
+shown deck cut at riffle 1,22
+shown deck cut at riffle 2,22
+shown deck cut at riffle 3,25
+shown deck cut at riffle 4,27
+shown deck cut at riffle 5,30
+shown deck cut at riffle 6,20
+shown deck cut at riffle 7,29
+shown deck cut at riffle 8,28
+shown deck cut at riffle 9,26
+shown deck cut at riffle 10,24
+shown deck cut at riffle 11,25
+shown deck cut at riffle 12,26
+riffle 7 distance exact,0.334061
+riffle 7 distance sim,0.334872
+riffle 7 top-card distance sim,0.05196
+riffle 7 neighbour distance sim,0.002847
+first riffle with top-card distance under 0.01 exact,10
+first riffle with distance under 0.5 exact,7
+first riffle with distance under 0.01 exact,13
+neat break chance per gap (assumed),0.15
+neat mean packets per pass exact,8.65
+neat mean packets per pass sim,8.653356
+neat mean cards per packet exact,6.011561
+neat 7 passes top-card distance sim,0.259213
+neat 7 passes rising distance sim,0.842408
+neat 7 passes neighbour distance sim,0.310597
+neat first tested pass matching 7 riffles on the rising test,15
+neat first tested pass matching 7 riffles on the top-card test,20
+neat 20 passes top-card distance sim,0.049169
+neat 20 passes rising distance sim,0.160131
+neat 20 passes neighbour distance sim,0.044824
+neat first tested pass matching 7 riffles on the neighbour test,39
+neat first tested pass matching 7 riffles on all three tests,39
+neat first tested pass within twice the noise floor on the top-card test,40
+neat first tested pass within twice the noise floor on the rising test,48
+neat first tested pass within twice the noise floor on the neighbour test,48
+neat 50 passes top-card distance sim,0.003209
+neat 50 passes rising distance sim,0.00176
+neat 50 passes neighbour distance sim,0.000634
+lazy break chance per gap (assumed),0.05
+lazy mean packets per pass exact,3.55
+lazy mean packets per pass sim,3.552176
+lazy mean cards per packet exact,14.647887
+lazy first tested pass matching 7 riffles on the top-card test,3
+lazy first tested pass within twice the noise floor on the top-card test,6
+lazy 7 passes top-card distance sim,0.002761
+lazy 7 passes rising distance sim,0.999872
+lazy 7 passes neighbour distance sim,0.670755
+lazy 20 passes top-card distance sim,0.003119
+lazy 20 passes rising distance sim,0.949579
+lazy 20 passes neighbour distance sim,0.342333
+lazy 50 passes top-card distance sim,0.003465
+lazy 50 passes rising distance sim,0.357037
+lazy 50 passes neighbour distance sim,0.072498
+lazy first tested pass matching 7 riffles on the rising test,55
+lazy 100 passes top-card distance sim,0.002254
+lazy 100 passes rising distance sim,0.031536
+lazy 100 passes neighbour distance sim,0.005451
+lazy first tested pass matching 7 riffles on the neighbour test,115
+lazy first tested pass matching 7 riffles on all three tests,115
+lazy first tested pass within twice the noise floor on the neighbour test,145
+lazy 150 passes top-card distance sim,0.002648
+lazy 150 passes rising distance sim,0.003404
+lazy 150 passes neighbour distance sim,0.000662
+lazy first tested pass within twice the noise floor on the rising test,165
+lazy 200 passes top-card distance sim,0.002482
+lazy 200 passes rising distance sim,0.000869
+lazy 200 passes neighbour distance sim,0.000315
+lazy 400 passes top-card distance sim,0.002484
+lazy 400 passes rising distance sim,0.001274
+lazy 400 passes neighbour distance sim,0.000355
+lazy 600 passes top-card distance sim,0.003193
+lazy 600 passes rising distance sim,0.001474
+lazy 600 passes neighbour distance sim,0.000402
+tiny break chance per gap (assumed),0.5
+tiny mean packets per pass exact,26.5
+tiny mean packets per pass sim,26.505785
+tiny mean cards per packet exact,1.962264
+tiny first tested pass matching 7 riffles on the rising test,1
+tiny 7 passes top-card distance sim,0.746069
+tiny 7 passes rising distance sim,0.42229
+tiny 7 passes neighbour distance sim,0.529754
+tiny 20 passes top-card distance sim,0.618324
+tiny 20 passes rising distance sim,0.245762
+tiny 20 passes neighbour distance sim,0.346774
+tiny 50 passes top-card distance sim,0.459392
+tiny 50 passes rising distance sim,0.135172
+tiny 50 passes neighbour distance sim,0.18862
+tiny 100 passes top-card distance sim,0.309365
+tiny 100 passes rising distance sim,0.078812
+tiny 100 passes neighbour distance sim,0.085875
+tiny 150 passes top-card distance sim,0.214175
+tiny 150 passes rising distance sim,0.05307
+tiny 150 passes neighbour distance sim,0.040989
+tiny 200 passes top-card distance sim,0.149031
+tiny 200 passes rising distance sim,0.036174
+tiny 200 passes neighbour distance sim,0.01961
+tiny first tested pass matching 7 riffles on the neighbour test,340
+tiny first tested pass matching 7 riffles on the top-card test,350
+tiny first tested pass matching 7 riffles on all three tests,350
+tiny 400 passes top-card distance sim,0.03526
+tiny 400 passes rising distance sim,0.008846
+tiny 400 passes neighbour distance sim,0.001088
+tiny first tested pass within twice the noise floor on the neighbour test,440
+tiny first tested pass within twice the noise floor on the rising test,580
+tiny 600 passes top-card distance sim,0.008416
+tiny 600 passes rising distance sim,0.002197
+tiny 600 passes neighbour distance sim,0.000392
+tiny first tested pass within twice the noise floor on the top-card test,720
+tiny 1000 passes top-card distance sim,0.003104
+tiny 1000 passes rising distance sim,0.001432
+tiny 1000 passes neighbour distance sim,0.000352
