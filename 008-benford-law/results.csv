@@ -1,0 +1,81 @@
+measure,value
+numbers per case,1000000
+seed,20261127
+growth steps,40
+powers of two starting with 1,301029
+digits in 2^1000000,301030
+powers of two share digit 1,0.301029
+powers of two share digit 2,0.176093
+powers of two share digit 3,0.124937
+powers of two share digit 4,0.096911
+powers of two share digit 5,0.079182
+powers of two share digit 6,0.066947
+powers of two share digit 7,0.05799
+powers of two share digit 8,0.051154
+powers of two share digit 9,0.045757
+powers of two distance from benford,5e-06
+uniform 1..1999 share 1 exact,0.555778
+uniform 1..999 share 1 exact,0.111111
+uniform 1..999999 share digit 1,0.110446
+uniform 1..999999 share digit 2,0.110576
+uniform 1..999999 share digit 3,0.110621
+uniform 1..999999 share digit 4,0.110601
+uniform 1..999999 share digit 5,0.11131
+uniform 1..999999 share digit 6,0.111251
+uniform 1..999999 share digit 7,0.112435
+uniform 1..999999 share digit 8,0.111423
+uniform 1..999999 share digit 9,0.111337
+uniform 1..999999 distance from benford,0.270417
+uniform 1..999999 distance from benford exact,0.268727
+uniform 1..1999 share 1 sim,0.555351
+uniform 1..1999 distance from benford exact,0.268893
+growth first step under 0.01 exact,28
+growth first step under 0.01 sim,28
+growth first step under 0.005 exact,32
+growth step 40 distance sim,0.001028
+growth step 40 distance exact,0.001585
+growth largest value after 40 steps log10,9.104836
+growth smallest value after 40 steps log10,4.287385
+units constants tried,181
+units grown largest share change,0.001698
+units uniform largest share change,0.446263
+units grown largest distance,0.001376
+units uniform largest distance,0.270417
+units uniform smallest distance,0.137436
+units c,2.54
+grown share 1 before,0.300163
+grown share 1 x2.54,0.301544
+grown largest change x2.54,0.001381
+uniform share 1 before,0.110446
+uniform share 1 x2.54,0.438293
+uniform share 1 x2.54 exact,0.437445
+uniform distance x2.54,0.218181
+grown distance x2.54,0.00096
+uniform x2.54 share digit 1,0.438293
+uniform x2.54 share digit 2,0.257009
+uniform x2.54 share digit 3,0.043121
+uniform x2.54 share digit 4,0.043834
+uniform x2.54 share digit 5,0.043533
+uniform x2.54 share digit 6,0.04347
+uniform x2.54 share digit 7,0.043413
+uniform x2.54 share digit 8,0.043855
+uniform x2.54 share digit 9,0.043472
+grown x2.54 share digit 1,0.301544
+grown x2.54 share digit 2,0.176267
+grown x2.54 share digit 3,0.124519
+grown x2.54 share digit 4,0.096433
+grown x2.54 share digit 5,0.079179
+grown x2.54 share digit 6,0.066886
+grown x2.54 share digit 7,0.058011
+grown x2.54 share digit 8,0.051236
+grown x2.54 share digit 9,0.045925
+benford digit 1,0.30103
+benford digit 2,0.176091
+benford digit 3,0.124939
+benford digit 4,0.09691
+benford digit 5,0.079181
+benford digit 6,0.066947
+benford digit 7,0.057992
+benford digit 8,0.051153
+benford digit 9,0.045757
+log ruler share from 1 to 2,0.30103
